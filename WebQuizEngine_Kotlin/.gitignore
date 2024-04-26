@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Quiz Engine (Kotlin)/*
+!/Web Quiz Engine (Kotlin)/task/
+/Web Quiz Engine (Kotlin)/task/*
+!/Web Quiz Engine (Kotlin)/task/src
+!/Web Quiz Engine (Kotlin)/task/build.gradle
+!/Web Quiz Engine (Kotlin)/task/quizdb.mv.db
+!/Web Quiz Engine (Kotlin)/task/quizdb.trace.db
