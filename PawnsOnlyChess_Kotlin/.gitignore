@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Pawns-Only Chess/*
+!/Pawns-Only Chess/task/
+/Pawns-Only Chess/task/*
+!/Pawns-Only Chess/task/src
