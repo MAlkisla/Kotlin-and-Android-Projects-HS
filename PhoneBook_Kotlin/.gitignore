@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Phone Book (Kotlin)/*
+!/Phone Book (Kotlin)/task/
+/Phone Book (Kotlin)/task/*
+!/Phone Book (Kotlin)/task/src
