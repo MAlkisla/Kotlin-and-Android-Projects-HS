@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Parking Lot/*
+!/Parking Lot/task/
+/Parking Lot/task/*
+!/Parking Lot/task/src
