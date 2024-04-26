@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="balance">Balance:</string>
+    <string name="account_number">Account number</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="transfer_funds">Transfer</string>
+    <string name="calculate">calculate</string>
+    <string name="convert_from">convert from</string>
+    <string name="convert_to">convert to</string>
+    <string name="enter_code">Enter code</string>
+    <string name="show_bill_info">Show Bill Info</string>
+</resources>

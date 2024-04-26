@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Bank Manager/*
+!/Simple Bank Manager/task/
+/Simple Bank Manager/task/*
+!/Simple Bank Manager/task/src
+!/Simple Bank Manager/task/build.gradle
