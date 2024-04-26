@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Secret Diary/*
+!/Secret Diary/task/
+/Secret Diary/task/*
+!/Secret Diary/task/src
+!/Secret Diary/task/build.gradle
