@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Aquarium/*
+!/Aquarium/task/
+/Aquarium/task/*
+!/Aquarium/task/src
+!/Aquarium/task/build.gradle
