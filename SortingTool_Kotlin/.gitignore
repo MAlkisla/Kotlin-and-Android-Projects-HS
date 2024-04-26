@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Sorting Tool (Kotlin)/*
+!/Sorting Tool (Kotlin)/task/
+/Sorting Tool (Kotlin)/task/*
+!/Sorting Tool (Kotlin)/task/src
+!/Sorting Tool (Kotlin)/task/out.txt
