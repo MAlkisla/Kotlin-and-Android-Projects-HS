@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Maze Runner (Kotlin)/*
+!/Maze Runner (Kotlin)/task/
+/Maze Runner (Kotlin)/task/*
+!/Maze Runner (Kotlin)/task/src
+!/Maze Runner (Kotlin)/task/test_maze.txt
