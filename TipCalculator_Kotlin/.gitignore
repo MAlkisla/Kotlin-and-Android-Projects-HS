@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Tip Calculator/*
+!/Tip Calculator/task/
+/Tip Calculator/task/*
+!/Tip Calculator/task/src
+!/Tip Calculator/task/build.gradle
