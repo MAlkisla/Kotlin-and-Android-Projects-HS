@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Zookeeper (Kotlin)/*
+!/Zookeeper (Kotlin)/task/
+/Zookeeper (Kotlin)/task/*
+!/Zookeeper (Kotlin)/task/src
